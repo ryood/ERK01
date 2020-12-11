@@ -690,4 +690,26 @@ Wire Wire Line
 	8850 3700 9050 3700
 Connection ~ 8850 3700
 Connection ~ 9050 3700
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 5E6F2B07
+P 3450 5950
+F 0 "H5" H 3550 5996 50  0000 L CNN
+F 1 "MountingHole" H 3550 5905 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 3450 5950 50  0001 C CNN
+F 3 "~" H 3450 5950 50  0001 C CNN
+	1    3450 5950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H6
+U 1 1 5E6F3635
+P 3450 6150
+F 0 "H6" H 3550 6196 50  0000 L CNN
+F 1 "MountingHole" H 3550 6105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 3450 6150 50  0001 C CNN
+F 3 "~" H 3450 6150 50  0001 C CNN
+	1    3450 6150
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

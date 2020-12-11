@@ -6,8 +6,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "ERK01_PSU"
-Date "2020-03-11"
-Rev "Ver.0.9"
+Date "2020-03-14"
+Rev "Ver.0.91"
 Comp "PNPN Manufactory"
 Comment1 ""
 Comment2 ""
@@ -31,7 +31,7 @@ U 1 1 5E67A26C
 P 4750 3450
 F 0 "C1" H 4865 3496 50  0000 L CNN
 F 1 "0.33uF" H 4865 3405 50  0000 L CNN
-F 2 "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 4788 3300 50  0001 C CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 4788 3300 50  0001 C CNN
 F 3 "~" H 4750 3450 50  0001 C CNN
 	1    4750 3450
 	1    0    0    -1  
@@ -42,7 +42,7 @@ U 1 1 5E67A8EC
 P 4750 4200
 F 0 "C2" H 4865 4246 50  0000 L CNN
 F 1 "0.33uF" H 4865 4155 50  0000 L CNN
-F 2 "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 4788 4050 50  0001 C CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 4788 4050 50  0001 C CNN
 F 3 "~" H 4750 4200 50  0001 C CNN
 	1    4750 4200
 	1    0    0    -1  
